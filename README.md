@@ -27,3 +27,25 @@ The project is deployed with a clean UI built using Streamlit, making it easy an
         ├── research/                      - Notebooks and datasets used for training
         │   ├── [Notebook].ipynb           - Jupyter notebooks for EDA, model training
         │   └── [Raw/Processed datasets]   - CSV files used in the notebooks
+
+# 🛠️ Technologies Used
+        Python – Core programming language for data processing and model development
+        Pandas – Data analysis and manipulation
+        NumPy – Numerical computations
+        Matplotlib & Seaborn – Data visualization and analytics
+        Scikit-learn (sklearn) – Machine Learning model building and evaluation
+        Streamlit – Web-based interactive UI for deploying the ML model
+        Pickle – Saving and loading trained ML models
+        Jupyter Notebook – Research and exploratory data analysis (EDA)
+        CSV – Dataset format for storing flat and geolocation data
+
+# 📚 Required Libraries
+Make sure the following Python libraries are installed before running the project:
+
+        pandas
+        numpy
+        matplotlib
+        seaborn
+        scikit-learn
+        streamlit
+        pickle-mixin
