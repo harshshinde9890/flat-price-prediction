@@ -10,3 +10,19 @@ The project is deployed with a clean UI built using Streamlit, making it easy an
     🖥️ Streamlit-based frontend UI for seamless experience  
     🧠 Trained ML model using Scikit-Learn  
     💾 Model serialized using Pickle
+
+# 📂 Folder Structure
+
+flat-price-prediction/
+│
+├── README.md                      - Project overview and instructions
+├── gurgaon_sectors_coordinates.csv  - Dataset with latitude & longitude of sectors
+├── home.py                        - Main Streamlit app file
+├── latlong_scraper.py            - Script to scrape latitude & longitude
+│
+├── pages/                         - Contains UI pages for the Streamlit app
+│   └── [Multiple UI Scripts]      - Streamlit pages (e.g., input forms, predictions)
+│
+├── research/                      - Notebooks and datasets used for training
+│   ├── [Notebook].ipynb           - Jupyter notebooks for EDA, model training
+│   └── [Raw/Processed datasets]   - CSV files used in the notebooks
