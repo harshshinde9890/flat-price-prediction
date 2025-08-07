@@ -4,9 +4,9 @@ This is an end-to-end Machine Learning project designed to predict the price of 
 
 The project is deployed with a clean UI built using Streamlit, making it easy and interactive for users to predict prices instantly.
 # ✅ Key Features <br>
-    📊 Predicts flat prices based on user input  <br>
-    🔍 Interactive visualizations of dataset insights  <br>
-    📈 Price recommendation based on similar properties  <br>
-    🖥️ Streamlit-based frontend UI for seamless experience  <br>
-    🧠 Trained ML model using Scikit-Learn  <br>
+    📊 Predicts flat prices based on user input  
+    🔍 Interactive visualizations of dataset insights  
+    📈 Price recommendation based on similar properties  
+    🖥️ Streamlit-based frontend UI for seamless experience  
+    🧠 Trained ML model using Scikit-Learn  
     💾 Model serialized using Pickle
