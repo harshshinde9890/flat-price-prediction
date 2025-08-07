@@ -49,3 +49,22 @@ Make sure the following Python libraries are installed before running the projec
         scikit-learn
         streamlit
         pickle-mixin
+
+# 🔧 Installation
+        Follow the steps below to set up and run the project on your local machine:
+        
+        1️⃣ Clone the Repository
+            git clone https://github.com/your-username/flat-price-prediction.git
+            cd flat-price-prediction
+        2️⃣ Create a Virtual Environment (Recommended)
+             pip install virtualenv
+             python -m virtualenv venv
+             Activate the virtual environment:
+             Windows:
+            venv\Scripts\activate
+            macOS/Linux:
+            source venv/bin/activate
+        3️⃣ Install Required Libraries
+             pip install pandas numpy matplotlib seaborn scikit-learn streamlit pickle-mixin
+        4️⃣ Run the Streamlit App
+             streamlit run home.py
